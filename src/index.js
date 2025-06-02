@@ -61,7 +61,7 @@ function App() {
 function Header() {
   return (
     <header className="header">
-      <h1>Jitu's Pizza House</h1>
+      <h1>The Cheesy Crust Pizza House</h1>
     </header>
   );
 }
